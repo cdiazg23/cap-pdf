@@ -10,15 +10,17 @@ Funciona en computador y en celular, sin crear cuenta. Tus archivos no se suben 
 
 ## Qué puedes hacer
 
-- **Unir** varios PDF en uno.
-- **Dividir o extraer** las páginas que elijas.
-- **Organizar**: reordenar, rotar y eliminar páginas.
-- **Editar**: añadir texto, resaltar, dibujar o firmar a mano, y cubrir zonas.
-- **Seleccionar y copiar** el texto del documento.
+- **Unir** varios PDF en uno, **dividir o extraer** páginas y **organizarlas** (reordenar, girar, eliminar).
+- **Leer y buscar**: vista continua y búsqueda de texto con resultados marcados.
+- **Editar**: resaltar, subrayar o tachar texto, añadir texto, dibujar y mover lo añadido.
+- **Firmar**: dibuja tu firma una vez y reutilízala, o inserta una imagen o timbre.
+- **Censurar** datos de verdad: lo tapado se elimina del archivo, no solo se oculta.
 - **OCR**: volver seleccionable el texto de escaneados y fotos, en español e inglés.
+- **Comprimir**: sin pérdida de calidad, reduciendo imágenes o hasta un tamaño máximo.
+- **Numerar o foliar** páginas y añadir **marca de agua**.
+- **Contraseñas**: abrir PDF protegidos y proteger los tuyos.
+- **Exportar**: páginas a imágenes y texto a Word o .txt.
 - **Imágenes a PDF**: JPG, PNG, WebP, BMP y GIF.
-- **Comprimir**: reducir el peso del archivo, sin pérdida de calidad o reduciendo las imágenes.
-- **Numerar páginas** y añadir **marca de agua**.
 - **Preguntar con IA**: resumir el documento o hacerle preguntas con tu propia clave de API de Groq o Google Gemini (ambos con plan gratuito), OpenAI o Anthropic.
 
 Tus archivos originales nunca se modifican: el resultado se guarda siempre como un PDF nuevo. El manual completo está dentro de la aplicación, en «Manual de uso».
