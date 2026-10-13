@@ -17,6 +17,7 @@ Funciona en computador y en celular, sin crear cuenta. Tus archivos no se suben 
 - **Seleccionar y copiar** el texto del documento.
 - **OCR**: volver seleccionable el texto de escaneados y fotos, en español e inglés.
 - **Imágenes a PDF**: JPG, PNG, WebP, BMP y GIF.
+- **Comprimir**: reducir el peso del archivo, sin pérdida de calidad o reduciendo las imágenes.
 - **Numerar páginas** y añadir **marca de agua**.
 - **Preguntar con IA**: resumir el documento o hacerle preguntas con tu propia clave de API de Groq o Google Gemini (ambos con plan gratuito), OpenAI o Anthropic.
 
